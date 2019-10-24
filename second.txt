@@ -1,2 +1,5 @@
 second file for git
+<<<<<<< HEAD
 checking diff in second txt
+=======
+>>>>>>> parent of 6198f45... removed second file from local
